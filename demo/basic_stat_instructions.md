@@ -1,0 +1,3 @@
+Input: /workspaces/ainewsdemo/data/trump_xi_meeting_fulltext_dedup-1657.csv
+Process: write a Python program and count the number of articles in the csv file above; add a column to the CSV file to indicate the word count of each article; generate some charts to visualize the results; run the program 
+output: generate the Python program in /workspaces/ainewsdemo/demo; generate the charts and md files as output in the same folder 
