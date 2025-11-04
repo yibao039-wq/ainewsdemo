@@ -1,3 +1,3 @@
-input: add the file path of the CSV file 
-Process: ask AI agent to generate a Python program and process the input with specific instructions 
-Output: indicate the folder where the output will be generated 
+input: /workspaces/ainewsdemo/data/trump_xi_meeting_fulltext_dedup-1657.csv
+Process:  write a Python program and count the number of articles in the csv file above; create a new copy of the CSV above and  add a column to the CSV file to indicate the word count of each article; generate some charts to visualize the results; run the program 
+output: generate the Python program in /workspaces/ainewsdemo/practice/output; generate the charts and md files as output in the same folder 
